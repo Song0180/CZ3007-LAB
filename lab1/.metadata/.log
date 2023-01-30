@@ -1,0 +1,358 @@
+!SESSION 2013-12-31 13:37:08.483 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2013-12-31 13:39:21.676
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-01-02 17:25:16.702 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-01-02 17:25:46.046
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-01-03 17:42:39.051 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-01-03 17:43:05.305
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-01-06 16:02:36.845 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-01-06 16:03:08.451
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-01-13 17:46:51.670 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-01-13 17:47:38.434
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-01-14 13:05:26.281 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-01-14 13:05:58.557
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-01-14 14:24:49.716 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-01-14 14:25:34.072
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-02-13 12:27:57.708 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-02-13 12:28:33.010
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-02-13 16:04:04.112 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-02-13 16:05:30.866
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-08-29 13:16:48.235 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-08-29 13:18:01.679
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-08-29 16:41:43.137 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-08-29 16:41:58.971
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-08-29 17:56:13.759 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-08-29 17:56:29.047
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-08-29 18:06:33.108 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-08-29 18:06:49.696
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-09-01 09:52:45.072 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-09-01 09:53:09.673
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-09-01 13:00:56.840 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-09-01 13:01:11.955
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+
+!ENTRY org.eclipse.ui 4 4 2014-09-01 13:01:19.443
+!MESSAGE Conflicting handlers for org.eclipse.jdt.ui.edit.text.java.open.editor: {ActionHandler(org.eclipse.ant.internal.ui.editor.actions.OpenDeclarationAction@12f87cf)} vs {ActionHandler(org.eclipse.ant.internal.ui.editor.actions.OpenDeclarationAction@ce7265)}
+!SESSION 2014-09-01 13:24:08.815 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-09-01 13:24:17.099
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-09-01 14:27:04.850 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-09-01 14:27:15.443
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-09-01 15:31:46.825 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-09-01 15:31:57.496
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-09-01 16:18:19.631 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-09-01 16:18:29.147
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-09-01 16:47:51.464 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-09-01 16:48:02.962
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-09-01 17:28:31.414 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-09-01 17:28:41.008
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2014-09-01 17:32:30.067 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-09-01 17:32:42.796
+!MESSAGE Unable to find Action Set: scala.texteditor.actionset
+!SESSION 2023-01-30 12:34:43.866 -----------------------------------------------
+eclipse.buildId=4.26.0.20221201-1200
+java.version=18.0.2.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/syyylm/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Users/syyylm/Library/CloudStorage/OneDrive-NanyangTechnologicalUniversity/SIN/NTU/AY22-23 SEM2/CZ3007/Labs/Lab 1/lab1 -product org.eclipse.epp.package.java.product -keyring /Users/syyylm/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2023-01-30 12:34:44.478
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-01-30 12:34:51.263
+!MESSAGE Logback config file: /Users/syyylm/Library/CloudStorage/OneDrive-NanyangTechnologicalUniversity/SIN/NTU/AY22-23 SEM2/CZ3007/Labs/Lab 1/lab1/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.1.0.20221015-0744.xml
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2023-01-30 12:34:51.510
+!MESSAGE Unable to load resource file:/Users/syyylm/Library/CloudStorage/OneDrive-NanyangTechnologicalUniversity/SIN/NTU/AY22-23%20SEM2/CZ3007/Labs/Lab%201/lab1/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+!STACK 0
+org.eclipse.emf.ecore.resource.impl.ResourceSetImpl$1DiagnosticWrappedException: org.eclipse.emf.ecore.xmi.ClassNotFoundException: Class 'OpaqueToolItem' is not found or is abstract. (file:/Users/syyylm/Library/CloudStorage/OneDrive-NanyangTechnologicalUniversity/SIN/NTU/AY22-23%20SEM2/CZ3007/Labs/Lab%201/lab1/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi, 274, 106)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.handleDemandLoadException(ResourceSetImpl.java:319)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:278)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:406)
+	at org.eclipse.e4.ui.internal.workbench.ResourceHandler.getResource(ResourceHandler.java:290)
+	at org.eclipse.e4.ui.internal.workbench.ResourceHandler.loadResource(ResourceHandler.java:266)
+	at org.eclipse.e4.ui.internal.workbench.ResourceHandler.loadMostRecentModel(ResourceHandler.java:169)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application.loadApplicationModel(E4Application.java:371)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application.createE4Workbench(E4Application.java:247)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:572)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+Caused by: org.eclipse.emf.ecore.xmi.ClassNotFoundException: Class 'OpaqueToolItem' is not found or is abstract. (file:/Users/syyylm/Library/CloudStorage/OneDrive-NanyangTechnologicalUniversity/SIN/NTU/AY22-23%20SEM2/CZ3007/Labs/Lab%201/lab1/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi, 274, 106)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.validateCreateObjectFromFactory(XMLHandler.java:2298)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.validateCreateObjectFromFactory(XMLHandler.java:2422)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromTypeName(XMLHandler.java:2153)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObject(XMLHandler.java:2085)
+	at org.eclipse.emf.ecore.xmi.impl.XMIHandler.createObject(XMIHandler.java:151)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleFeature(XMLHandler.java:1894)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.processElement(XMLHandler.java:1048)
+	at org.eclipse.emf.ecore.xmi.impl.XMIHandler.processElement(XMIHandler.java:82)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:1026)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:720)
+	at org.eclipse.emf.ecore.xmi.impl.XMIHandler.startElement(XMIHandler.java:190)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:518)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(AbstractXMLDocumentParser.java:183)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:351)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2726)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:326)
+	at org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl.load(XMLLoadImpl.java:175)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doLoad(XMLResourceImpl.java:261)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1563)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1342)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:259)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:274)
+	... 21 more
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2023-01-30 12:34:51.512
+!MESSAGE The persisted application model has no top-level window. Reinitializing with the default application model.
+!STACK 0
+java.lang.Exception
+	at org.eclipse.e4.ui.internal.workbench.ResourceHandler.loadMostRecentModel(ResourceHandler.java:174)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application.loadApplicationModel(E4Application.java:371)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application.createE4Workbench(E4Application.java:247)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:572)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.jface 2 0 2023-01-30 12:34:52.497
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-01-30 12:34:52.497
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-01-30 12:34:52.497
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
